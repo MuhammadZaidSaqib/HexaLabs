@@ -95,11 +95,11 @@ print(f"My name is {name} and I am {age} years old") '''
 #Length of the string.
 #The string in uppercase
 
-'''text = input(" Enter your message ")
+text = input(" Enter your message ")
 print(f" The First letter is:",text[0])
 print(f" The last letter is :{text[-1]}")
 print(f" The length of the message is : {len(text)}")
 print (f" String in  uppercase :",text.upper())
-print (f" String in  lowercase :",text.lower())'''
+print (f" String in  lowercase :",text.lower())
 
 
