@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d7a7c24-789f-4c92-b753-7b8ae87ccab4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LAB.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Lab code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Lab code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/_template__of_C_C___File.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/_template__of_C_C___File2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab TAsk 4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Task 11.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Task 2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Task 3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Task 5.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Task 6.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Task 7.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Task 8.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab task 1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab task 10.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zaid CYS084.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Lab Task 13.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/airline_rsrv_system.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2025" />
+    <option name="minorVersion" value="2.2" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="33FVd1ToBedSuCpyg9XUdB6lGox" />
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.Lab .executor": "Run",
+    "C/C++ File.Lab Task 13.executor": "Run",
+    "C/C++ File.airline_rsrv_system.cpp.executor": "Run",
+    "CMake Application.LAB.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "Rebasing main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/zaids/OneDrive - Higher Education Commission/OneDrive/02 AREAS/COLLEGE OS/02 AREAS/Junior/3rd Semester/DSA/LAB",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zaids\OneDrive - Higher Education Commission\OneDrive\02 AREAS\COLLEGE OS\02 AREAS\Junior\3rd Semester\DSA\LAB" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ File.airline_rsrv_system.cpp">
+    <configuration name="airline_rsrv_system.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LAB" TARGET_NAME="airline_rsrv_system.cpp" CONFIG_NAME="airline_rsrv_system.cpp">
+      <option name="sourceFile" value="C:\Users\zaids\OneDrive - Higher Education Commission\OneDrive\02 AREAS\COLLEGE OS\02 AREAS\Sophomore\3rd Semester\DSA\LAB\airline_rsrv_system.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d7a7c24-789f-4c92-b753-7b8ae87ccab4" name="Changes" comment="" />
+      <created>1758912896789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758912896789</updated>
+      <workItem from="1758912900557" duration="807000" />
+      <workItem from="1759466407994" duration="973000" />
+      <workItem from="1759467764496" duration="397000" />
+      <workItem from="1759468292376" duration="497000" />
+      <workItem from="1759468824760" duration="2270000" />
+      <workItem from="1760207084586" duration="1282000" />
+      <workItem from="1760611788622" duration="649000" />
+      <workItem from="1760778522664" duration="327000" />
+      <workItem from="1761842349196" duration="585000" />
+      <workItem from="1762092459692" duration="143000" />
+      <workItem from="1762092659748" duration="1686000" />
+      <workItem from="1762251312498" duration="412000" />
+      <workItem from="1762416336825" duration="3029000" />
+      <workItem from="1762605354451" duration="3446000" />
+      <workItem from="1763475379440" duration="1715000" />
+      <workItem from="1763743384757" duration="3033000" />
+      <workItem from="1763822558297" duration="3574000" />
+      <workItem from="1763834767314" duration="2265000" />
+      <workItem from="1764489255400" duration="1915000" />
+      <workItem from="1764610117309" duration="2753000" />
+      <workItem from="1764668819743" duration="52000" />
+      <workItem from="1764704643916" duration="40000" />
+      <workItem from="1764783947523" duration="11000" />
+      <workItem from="1765114507415" duration="610000" />
+      <workItem from="1769325951810" duration="515000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>

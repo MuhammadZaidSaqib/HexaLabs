@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Lab " type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LAB" TARGET_NAME="Lab " CONFIG_NAME="Lab ">
+    <option name="sourceFile" value="C:\MinGW" />
+    <option name="toolchainName" value="MinGW" />
+    <method v="2">
+      <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
