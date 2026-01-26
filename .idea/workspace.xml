@@ -27,26 +27,295 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d7a7c24-789f-4c92-b753-7b8ae87ccab4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LAB.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Lab code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Lab code.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/_template__of_C_C___File.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/_template__of_C_C___File2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab TAsk 4.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab Task 11.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab Task 2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab Task 3.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab Task 5.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab Task 6.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab Task 7.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab Task 8.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab task 1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab task 10.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zaid CYS084.cpp" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/addr2line.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/addr2line.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/ar.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/ar.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/as.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/as.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/c++.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/c++.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/c++filt.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/c++filt.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/cpp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/cpp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/dlltool.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/dlltool.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/dllwrap.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/dllwrap.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/elfedit.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/elfedit.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/envsubst.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/envsubst.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/g++.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/g++.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gcc-ar.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gcc-ar.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gcc-nm.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gcc-nm.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gcc-ranlib.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gcc-ranlib.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gcc.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gcc.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gcov-tool.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gcov-tool.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gcov.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gcov.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gdb.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gdb.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gdbserver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gdbserver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gettext.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gettext.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gfortran.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gfortran.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnat.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnatbind.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnatbind.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnatchop.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnatchop.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnatclean.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnatclean.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnatdll.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnatdll.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnatfind.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnatfind.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnatkr.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnatkr.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnatlink.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnatlink.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnatls.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnatls.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnatmake.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnatmake.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnatname.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnatname.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnatprep.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnatprep.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnatxref.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gnatxref.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gprof.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/gprof.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/iconv.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/iconv.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/ld.bfd.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/ld.bfd.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/ld.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/ld.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/mingw-get.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/mingw-get.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/mingw32-c++.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/mingw32-c++.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/mingw32-g++.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/mingw32-g++.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/mingw32-gcc-6.3.0.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/mingw32-gcc-6.3.0.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/mingw32-gcc-ar.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/mingw32-gcc-ar.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/mingw32-gcc-nm.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/mingw32-gcc-nm.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/mingw32-gcc-ranlib.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/mingw32-gcc-ranlib.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/mingw32-gcc.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/mingw32-gcc.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/mingw32-gfortran.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/mingw32-gfortran.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/mingw32-make.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/mingw32-make.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msgattrib.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msgattrib.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msgcat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msgcat.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msgcmp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msgcmp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msgcomm.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msgcomm.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msgconv.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msgconv.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msgen.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msgen.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msgexec.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msgexec.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msgfilter.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msgfilter.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msgfmt.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msgfmt.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msggrep.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msggrep.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msginit.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msginit.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msgmerge.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msgmerge.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msgunfmt.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msgunfmt.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msguniq.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/msguniq.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/ngettext.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/ngettext.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/nm.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/nm.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/objcopy.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/objcopy.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/objdump.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/objdump.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/ranlib.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/ranlib.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/readelf.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/readelf.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/recode-sr-latin.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/recode-sr-latin.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/size.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/size.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/strings.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/strings.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/strip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/strip.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/windmc.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/windmc.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/windres.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/windres.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/xgettext.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/bin/xgettext.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/lib/gettext/hostname.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/lib/gettext/hostname.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/lib/gettext/urlget.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/lib/gettext/urlget.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/gcc/mingw32/6.3.0/cc1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/gcc/mingw32/6.3.0/cc1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/gcc/mingw32/6.3.0/cc1obj.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/gcc/mingw32/6.3.0/cc1obj.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/gcc/mingw32/6.3.0/cc1objplus.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/gcc/mingw32/6.3.0/cc1objplus.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/gcc/mingw32/6.3.0/cc1plus.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/gcc/mingw32/6.3.0/cc1plus.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/gcc/mingw32/6.3.0/collect2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/gcc/mingw32/6.3.0/collect2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/gcc/mingw32/6.3.0/f951.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/gcc/mingw32/6.3.0/f951.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/gcc/mingw32/6.3.0/gnat1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/gcc/mingw32/6.3.0/gnat1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/gcc/mingw32/6.3.0/install-tools/fixincl.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/gcc/mingw32/6.3.0/install-tools/fixincl.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/gcc/mingw32/6.3.0/lto-wrapper.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/gcc/mingw32/6.3.0/lto-wrapper.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/gcc/mingw32/6.3.0/lto1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/gcc/mingw32/6.3.0/lto1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/mingw-get/guimain.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/mingw-get/guimain.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/mingw-get/guistub.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/mingw-get/guistub.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/mingw-get/lastrites.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/libexec/mingw-get/lastrites.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/mingw32/bin/ar.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/mingw32/bin/ar.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/mingw32/bin/as.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/mingw32/bin/as.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/mingw32/bin/dlltool.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/mingw32/bin/dlltool.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/mingw32/bin/ld.bfd.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/mingw32/bin/ld.bfd.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/mingw32/bin/ld.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/mingw32/bin/ld.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/mingw32/bin/nm.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/mingw32/bin/nm.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/mingw32/bin/objcopy.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/mingw32/bin/objcopy.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/mingw32/bin/objdump.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/mingw32/bin/objdump.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/mingw32/bin/ranlib.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/mingw32/bin/ranlib.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/mingw32/bin/readelf.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/mingw32/bin/readelf.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/mingw32/bin/strip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/mingw32/bin/strip.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/[.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/[.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/a2p.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/a2p.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/autogen.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/autogen.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/awk.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/awk.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/basename.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/basename.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/bash.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/bash.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/bison.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/bison.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/bsdcpio.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/bsdcpio.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/bsdtar.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/bsdtar.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/bunzip2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/bunzip2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/bzcat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/bzcat.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/bzip2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/bzip2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/bzip2recover.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/bzip2recover.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/cat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/cat.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/chgrp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/chgrp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/chmod.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/chmod.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/chown.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/chown.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/chroot.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/chroot.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/cksum.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/cksum.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/cmp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/cmp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/columns.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/columns.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/comm.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/comm.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/cp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/cp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/csplit.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/csplit.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/cut.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/cut.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/cvs.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/cvs.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/d2u.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/d2u.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/date.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/date.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/dd.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/dd.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/df.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/df.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/diff.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/diff.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/diff3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/diff3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/diffstat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/diffstat.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/dir.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/dir.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/dircolors.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/dircolors.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/dirname.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/dirname.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/dos2unix.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/dos2unix.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/du.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/du.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/echo.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/echo.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/egrep.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/egrep.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/env.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/env.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/error-mode.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/error-mode.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/ex.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/ex.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/expand.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/expand.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/expr.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/expr.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/factor.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/factor.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/false.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/false.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/fgrep.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/fgrep.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/file.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/file.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/find.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/find.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/flex.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/flex.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/fmt.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/fmt.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/fold.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/fold.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/ftp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/ftp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/gawk-3.1.7.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/gawk-3.1.7.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/gawk.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/gawk.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/getdefs.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/getdefs.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/grep.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/grep.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/guile.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/guile.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/gzip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/gzip.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/head.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/head.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/hostname.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/hostname.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/id.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/id.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/info.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/info.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/infokey.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/infokey.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/install-info.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/install-info.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/install.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/install.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/join.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/join.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/kill.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/kill.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/less.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/less.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/lessecho.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/lessecho.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/lesskey.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/lesskey.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/link.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/link.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/ln.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/ln.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/lndir.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/lndir.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/logname.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/logname.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/ls.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/ls.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/lzcat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/lzcat.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/lzma.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/lzma.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/lzmadec.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/lzmadec.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/lzmainfo.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/lzmainfo.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/m4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/m4.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/mac2unix.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/mac2unix.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/make.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/make.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/makeinfo.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/makeinfo.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/md5sum.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/md5sum.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/mkdir.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/mkdir.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/mkfifo.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/mkfifo.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/mknod.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/mknod.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/mktemp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/mktemp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/msysmnt.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/msysmnt.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/mv.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/mv.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/nice.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/nice.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/nl.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/nl.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/nohup.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/nohup.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/od.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/od.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/oldfind.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/oldfind.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/openssl.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/openssl.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/paste.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/paste.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/patch.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/patch.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/pathchk.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/pathchk.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/perl.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/perl.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/perl5.8.8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/perl5.8.8.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/pgawk-3.1.7.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/pgawk-3.1.7.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/pgawk.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/pgawk.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/pinky.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/pinky.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/pr.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/pr.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/printenv.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/printenv.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/printf.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/printf.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/ps.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/ps.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/ptx.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/ptx.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/pwd.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/pwd.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/rcp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/rcp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/readlink.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/readlink.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/rexec.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/rexec.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/rlogin.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/rlogin.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/rm.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/rm.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/rmdir.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/rmdir.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/rsh.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/rsh.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/rsync.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/rsync.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/rview.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/rview.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/rvim.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/rvim.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/scp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/scp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/sdiff.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/sdiff.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/sed.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/sed.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/seq.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/seq.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/sftp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/sftp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/sh.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/sh.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/sha1sum.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/sha1sum.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/shred.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/shred.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/sleep.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/sleep.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/slogin.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/slogin.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/sort.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/sort.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/split.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/split.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/ssh-add.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/ssh-add.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/ssh-agent.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/ssh-agent.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/ssh-keygen.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/ssh-keygen.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/ssh-keyscan.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/ssh-keyscan.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/ssh.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/ssh.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/stat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/stat.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/stty.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/stty.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/su.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/su.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/sum.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/sum.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/sync.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/sync.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/tac.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/tac.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/tail.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/tail.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/tar.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/tar.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/tee.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/tee.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/telnet.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/telnet.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/test.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/test.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/texindex.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/texindex.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/tftp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/tftp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/touch.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/touch.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/tr.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/tr.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/true.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/true.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/tsort.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/tsort.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/tty.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/tty.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/u2d.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/u2d.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/uname.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/uname.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/unexpand.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/unexpand.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/uniq.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/uniq.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/unix2dos.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/unix2dos.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/unix2mac.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/unix2mac.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/unlink.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/unlink.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/unlzma.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/unlzma.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/unxz.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/unxz.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/users.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/users.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/vdir.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/vdir.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/view.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/view.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/vim.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/vim.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/vimdiff.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/vimdiff.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/wc.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/wc.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/who.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/who.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/whoami.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/whoami.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/xargs.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/xargs.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/xml2ag.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/xml2ag.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/xxd.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/xxd.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/xz.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/xz.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/xzcat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/xzcat.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/xzdec.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/xzdec.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/yes.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/bin/yes.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/sbin/awk/grcat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/sbin/awk/grcat.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/sbin/awk/pwcat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/sbin/awk/pwcat.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/sbin/ssh-keysign.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/sbin/ssh-keysign.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/sbin/ssh-pkcs11-helper.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../../../MinGW/msys/1.0/sbin/ssh-pkcs11-helper.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline_rsrv_system.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/airline_rsrv_system.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,34 +353,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "C/C++ File.Lab .executor": "Run",
-    "C/C++ File.Lab Task 13.executor": "Run",
-    "C/C++ File.airline_rsrv_system.cpp.executor": "Run",
-    "CMake Application.LAB.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.west.config.association.type.startup.service": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "Rebasing main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/zaids/OneDrive - Higher Education Commission/OneDrive/02 AREAS/COLLEGE OS/02 AREAS/Junior/3rd Semester/DSA/LAB",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.Lab .executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Lab Task 13.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.airline_rsrv_system.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.LAB.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Merging main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/zaids/OneDrive - Higher Education Commission/OneDrive/02 AREAS/COLLEGE OS/02 AREAS/Junior/3rd Semester/DSA/LAB&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.github.copilot.settings.ApplicationConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\zaids\OneDrive - Higher Education Commission\OneDrive\02 AREAS\COLLEGE OS\02 AREAS\Junior\3rd Semester\DSA\LAB" />
@@ -156,7 +425,8 @@
       <workItem from="1764704643916" duration="40000" />
       <workItem from="1764783947523" duration="11000" />
       <workItem from="1765114507415" duration="610000" />
-      <workItem from="1769325951810" duration="515000" />
+      <workItem from="1769325951810" duration="6535000" />
+      <workItem from="1769431735595" duration="1465000" />
     </task>
     <servers />
   </component>
@@ -167,6 +437,32 @@
     <isAutomaticCheckingOnLaunch value="false" />
     <isAutomaticFoundErrors value="true" />
     <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
